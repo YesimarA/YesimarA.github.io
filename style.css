@@ -1,0 +1,10 @@
+body{
+  background: url(imagenes/purple_marble.png);
+  font-family: serif;
+}
+
+li{
+  background: yellow;
+  border: 1px blue solid;
+  box-shadow: 5px 5px 2px gray ;
+}
